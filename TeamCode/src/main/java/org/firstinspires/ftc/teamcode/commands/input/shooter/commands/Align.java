@@ -1,4 +1,4 @@
-package org.firstinspires.ftc.teamcode.commands.shooter.commands;
+package org.firstinspires.ftc.teamcode.commands.input.shooter.commands;
 
 import org.firstinspires.ftc.teamcode.interfaces.Command;
 

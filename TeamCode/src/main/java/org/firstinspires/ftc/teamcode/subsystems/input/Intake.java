@@ -1,4 +1,4 @@
-package org.firstinspires.ftc.teamcode.subsystems;
+package org.firstinspires.ftc.teamcode.subsystems.input;
 
 import org.firstinspires.ftc.teamcode.interfaces.Subsystem;
 
